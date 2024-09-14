@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hw1","l":"CameraBattery"},{"p":"hw1","l":"CBTest"},{"p":"hw1","l":"speccheckTest"}];updateSearchResults();
